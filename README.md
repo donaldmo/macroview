@@ -1,3 +1,4 @@
+[Using Generative AI to Scale Your Content Operations(https://offers.hubspot.com/generative-ai-for-content-operations)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
